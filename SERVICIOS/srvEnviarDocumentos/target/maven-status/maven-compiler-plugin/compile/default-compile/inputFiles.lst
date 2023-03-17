@@ -1,0 +1,16 @@
+C:\Users\arojas\Documents\GitHub\srvEnviarDocumentos\src\main\java\co\com\invima\sivico\srvEnviarDocumentos\dto\GenericRequestDTO.java
+C:\Users\arojas\Documents\GitHub\srvEnviarDocumentos\src\main\java\co\com\invima\sivico\srvEnviarDocumentos\service\mapper\GenericMapper.java
+C:\Users\arojas\Documents\GitHub\srvEnviarDocumentos\src\main\java\co\com\invima\sivico\srvEnviarDocumentos\config\AppConfig.java
+C:\Users\arojas\Documents\GitHub\srvEnviarDocumentos\src\main\java\co\com\invima\sivico\srvEnviarDocumentos\service\EnviarDocumentosService.java
+C:\Users\arojas\Documents\GitHub\srvEnviarDocumentos\src\main\java\co\com\invima\sivico\srvEnviarDocumentos\config\OpenApiConfiguration.java
+C:\Users\arojas\Documents\GitHub\srvEnviarDocumentos\src\main\java\co\com\invima\sivico\srvEnviarDocumentos\security\ResourceServerConfig.java
+C:\Users\arojas\Documents\GitHub\srvEnviarDocumentos\src\main\java\co\com\invima\sivico\srvEnviarDocumentos\SrvEnviarDocumentosApplication.java
+C:\Users\arojas\Documents\GitHub\srvEnviarDocumentos\src\main\java\co\com\invima\sivico\srvEnviarDocumentos\client\AutenticacionClient.java
+C:\Users\arojas\Documents\GitHub\srvEnviarDocumentos\src\main\java\co\com\invima\sivico\srvEnviarDocumentos\dto\GenericResponseDTO.java
+C:\Users\arojas\Documents\GitHub\srvEnviarDocumentos\src\main\java\co\com\invima\sivico\srvEnviarDocumentos\repository\StoredProcedureRepositoryImpl.java
+C:\Users\arojas\Documents\GitHub\srvEnviarDocumentos\src\main\java\co\com\invima\sivico\srvEnviarDocumentos\config\ConfigProperties.java
+C:\Users\arojas\Documents\GitHub\srvEnviarDocumentos\src\main\java\co\com\invima\sivico\srvEnviarDocumentos\controller\EnviarDocumentosController.java
+C:\Users\arojas\Documents\GitHub\srvEnviarDocumentos\src\main\java\co\com\invima\sivico\srvEnviarDocumentos\repository\StoredProcedureRepository.java
+C:\Users\arojas\Documents\GitHub\srvEnviarDocumentos\src\main\java\co\com\invima\sivico\srvEnviarDocumentos\service\EnviarDocumentosServiceImpl.java
+C:\Users\arojas\Documents\GitHub\srvEnviarDocumentos\src\main\java\co\com\invima\sivico\srvEnviarDocumentos\dto\GenericSPBodyDTO.java
+C:\Users\arojas\Documents\GitHub\srvEnviarDocumentos\src\main\java\co\com\invima\sivico\srvEnviarDocumentos\config\GlobalAPIErrorHandler.java
